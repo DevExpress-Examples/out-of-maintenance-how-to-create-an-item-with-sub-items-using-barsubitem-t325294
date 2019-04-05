@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/SubItemExample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/SubItemExample/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/SubItemExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/SubItemExample/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/SubItemExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/SubItemExample/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to: Create an Item with Sub-Items Using BarSubItem
